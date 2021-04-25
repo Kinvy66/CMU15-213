@@ -9,18 +9,18 @@
 
 
 
-gitee参考容量有限，以网盘的形式分享，以下是文件目录，根据需要自取。
+gitee参考容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是==qw66==）
 
 所有文件：
 
-链接：https://pan.baidu.com/s/1sVyWpzMnhXT3XSBWn8LX3A 
-提取码：2iuj 
+链接：https://pan.baidu.com/s/1hd5SWuqZTFRAx5-GZoN5aA 
+提取码：qw66 
 
 ## 目录(2021.04.25)
 
 
 
-* **CS**
+* **[CS](https://pan.baidu.com/s/1z0g5G-aivd5MrxXsFRH7mg)**  
 
 541118 深入理解计算机系统（原书第三版）.pdf
 
@@ -62,13 +62,13 @@ WPF编程宝典第4版.pdf
 
 
 
-* **Electronic**
+* **[Electronic](https://pan.baidu.com/s/1GQGzUBq0vNFGmVC11W0obQ)**
 
 100-uCOS-III-ST-STM32.pdf
 
 
 
-* **ML&DL**
+* **[ML&DL](https://pan.baidu.com/s/1E0699wj2c_KpA8iZVwgcKQ)**
 
 pumpkin_book.pdf
 
@@ -76,7 +76,7 @@ pumpkin_book.pdf
 
 
 
-* **OS**
+* **[OS](https://pan.baidu.com/s/15PnBzEeRz3BAkuTuq02QIg)**
 
 30天自制操作系统.pdf
 
